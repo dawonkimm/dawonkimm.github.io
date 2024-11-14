@@ -117,7 +117,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. Student in Electrical Engineering (EE) at Columbia University"
   location         : "NY, New York"
-  email            : "dk3311[at]columbia[dot]edu or deu04221[at]gmail[dot]com"
+  email            : "dk3311.columbia.edu"
   links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
