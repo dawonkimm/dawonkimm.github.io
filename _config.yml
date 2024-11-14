@@ -115,9 +115,12 @@ analytics:
 author:
   name             : "Da Won Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. Student in Electrical Engineering (EE) at Columbia University"
-  location         : "NY, New York"
-  email            : "dk3311.columbia.edu"
+  # bio              : "Ph.D. Student in Electrical Engineering (EE) at Columbia University"
+  bio              : "Hello!"
+  # location         : "NY, New York"
+  location         : "Somewhere"
+  # email            : "dk3311.columbia.edu"
+  email            : ""
   links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
